@@ -20,7 +20,6 @@ The shift from monolithic systems to modular architectures, the development of m
 | 1994  | Release of Linux Kernel 1.0, the first stable and official version, setting the stage for widespread adoption. |
 | 2000+ | Linux dominates the server, supercomputer, and embedded systems markets, becoming the backbone of enterprise IT infrastructures. |
 
-
 ## The Origin of Linux
 
 The need for a more efficient, flexible, and accessible operating system became evident in the late 20th century. At that time, UNIX was widely used but was costly and restricted by licensing constraints. 
