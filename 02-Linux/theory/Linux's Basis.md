@@ -12,12 +12,12 @@ The shift from monolithic systems to modular architectures, the development of m
 
 ## Timeline of Linux Development
 
-```
-- **1969**: Ken Thompson and Dennis Ritchie develop UNIX at Bell Labs, establishing foundational principles for modern operating systems.
-- **1983**: Richard Stallman launches the GNU Project, advocating for free software and open-source principles.
-- **1991**: Linus Torvalds, a Finnish computer science student, announces the development of the Linux kernel on Usenet.
-- **1994**: Release of Linux Kernel 1.0, the first stable and official version, setting the stage for widespread adoption.
-- **2000+**: Linux dominates the server, supercomputer, and embedded systems markets, becoming the backbone of enterprise IT infrastructures.
+```markdown
+1969 - Ken Thompson and Dennis Ritchie develop UNIX at Bell Labs, establishing foundational principles for modern operating systems.
+1983 - Richard Stallman launches the GNU Project, advocating for free software and open-source principles.
+1991 - Linus Torvalds, a Finnish computer science student, announces the development of the Linux kernel on Usenet.
+1994 - Release of Linux Kernel 1.0, the first stable and official version, setting the stage for widespread adoption.
+2000+ - Linux dominates the server, supercomputer, and embedded systems markets, becoming the backbone of enterprise IT infrastructures.
 ```
 
 ## The Origin of Linux
