@@ -1,9 +1,9 @@
-# 🖥️ Use Cases - Linux
+# Use Cases - Linux
 
-## 📌 Overview
+## Overview
 This directory serves as a collection of practical use cases related to Linux, focusing on real-world scenarios applicable to DevOps and SRE practices. The scripts and examples provided here aim to reinforce foundational knowledge and automation techniques essential for managing Linux-based environments.
 
-## 📂 Purpose
+## Purpose
 The **use_cases** folder includes various scripts and configurations that demonstrate key Linux concepts, such as:
 
 - System administration and automation.
