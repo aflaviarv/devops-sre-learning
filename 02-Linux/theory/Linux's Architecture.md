@@ -1,4 +1,4 @@
-# Linux Architecture
+# Linux Architecture - Where to Start
 
 ## Table of Contents
 - [Introduction](#introduction)
