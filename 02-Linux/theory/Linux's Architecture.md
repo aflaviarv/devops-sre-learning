@@ -23,7 +23,7 @@
 ---
 
 ## Introduction
-Linux was initially developed by Linus Torvalds with the goal of creating an open-source operating system based on UNIX. It inherited key UNIX concepts such as multitasking, security, and access permissions.
+Linux was, initially, developed by Linus Torvalds with the goal of creating an open-source operating system based on UNIX. It inherited key UNIX concepts such as multitasking, security, and access permissions.
 
 ## Linux Kernel Architecture
 The Linux kernel follows a **monolithic modular** model:
