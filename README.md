@@ -1,4 +1,3 @@
-```markdown
 # DevOps & SRE Learning Repository
 
 ## Purpose
@@ -76,4 +75,3 @@ The learning journey follows a logical progression, starting with foundational c
 This repository is a continuously evolving knowledge base. Contributions, feedback, and discussions are welcome to enhance the learning experience and share insights with the community.
 
 > **Note:** The repository is intended for educational purposes and personal skill development. The content will be updated regularly to reflect the latest industry practices and tools.
-```
