@@ -1,4 +1,4 @@
-# DevOps & SRE Learning Repository
+#DevOps & SRE Learning Repository
 
 ## Purpose
 This repository serves as a structured learning path for transitioning from IT Project Management to DevOps and Site Reliability Engineering (SRE). It acts as a central hub for consolidating knowledge, hands-on projects, and practical exercises covering DevOps principles, automation, CI/CD, cloud infrastructure, and observability.
@@ -14,58 +14,59 @@ This repository serves as a structured learning path for transitioning from IT P
 ## Roadmap
 The learning journey follows a logical progression, starting with foundational concepts and gradually advancing to more complex topics:
 
-### 1. Version Control & Collaboration
-- **Git Fundamentals**: Commits, branches, merges, and rebases.
-- **GitHub Best Practices**: Repository structure, issues, pull requests, and workflows.
-- **Git Workflows**: Feature branching, GitFlow, and trunk-based development.
+### 1. Introduction
+- **Overview of DevOps & SRE**: Understanding the key principles and methodologies.
+- **Learning Path**: Structuring your study and projects.
 
-### 2. Cloud & Infrastructure
+### 2. Cloud
 - **Cloud Fundamentals**: Key concepts of cloud computing (IaaS, PaaS, SaaS).
-- **AWS Core Services**:
-  - Compute: EC2, Lambda, ECS, EKS.
-  - Storage: S3, EBS, EFS.
-  - Networking: VPC, Route 53, ELB, CloudFront.
-  - Security: IAM, KMS, Security Groups, WAF.
+- **AWS, GCP, Azure**: Core services and best practices.
 - **Multi-cloud Strategy**: Understanding cross-cloud deployments and hybrid environments.
-- **Networking for Cloud**: VPCs, Subnets, CIDR, Peering, VPNs, and Direct Connect.
-- **Security Best Practices**: IAM roles, least privilege access, encryption, and compliance.
 
 ### 3. Linux
 - **Basic Commands**: File system navigation, permissions, and process management.
 - **Shell Scripting**: Automating tasks with Bash.
 - **Networking in Linux**: Understanding firewalls, ports, and traffic monitoring.
 
-### 4. Networking
+### 4. Git
+- **Git Fundamentals**: Commits, branches, merges, and rebases.
+- **GitHub Best Practices**: Repository structure, issues, pull requests, and workflows.
+- **Git Workflows**: Feature branching, GitFlow, and trunk-based development.
+
+### 5. Networking
 - **Networking Fundamentals**: TCP/IP, DNS, HTTP/S, VPNs.
 - **Cloud Networking**: VPCs, load balancing, and direct connections.
 - **Troubleshooting**: Common networking issues and debugging tools.
 
-### 5. CI/CD & Automation
+### 6. CI/CD
 - **Continuous Integration (CI)**: GitHub Actions, Jenkins, GitLab CI.
 - **Continuous Deployment (CD)**: Automated deployment strategies.
 - **Configuration Management**: Ansible, Chef, Puppet.
 - **Artifact Management**: Docker Hub, JFrog Artifactory.
 
-### 6. Containerization
-- **Docker**: Image creation, Dockerfiles, container management.
-- **Kubernetes (K8s)**:
-  - Pods, Deployments, Services, and ConfigMaps.
-  - Helm for package management.
-  - Kubernetes networking and security.
-  - Cluster monitoring and scaling.
+### 7. Docker
+- **Docker Fundamentals**: Image creation, Dockerfiles, container management.
+- **Docker Compose**: Multi-container applications.
+- **Security Best Practices**: Image scanning, least privilege execution.
 
-### 7. Infrastructure as Code (IaC)
-- **Terraform**: Infrastructure provisioning and management.
+### 8. Kubernetes
+- **Core Concepts**: Pods, Deployments, Services, and ConfigMaps.
+- **Helm for Package Management**: Managing applications efficiently.
+- **Networking & Security**: Service mesh, network policies.
+- **Cluster Monitoring & Scaling**: Horizontal/vertical scaling, Prometheus & Grafana.
+
+### 9. Terraform
+- **Infrastructure as Code (IaC)**: Infrastructure provisioning and management.
 - **Best Practices**: State management, modules, and security considerations.
 
-### 8. Monitoring & Observability
+### 10. Monitoring
 - **Monitoring Tools**: CloudWatch, Datadog, Prometheus, Grafana.
 - **Centralized Logging**: ELK stack (Elasticsearch, Logstash, Kibana).
 - **Tracing & Alerting**:
   - Distributed tracing with OpenTelemetry.
   - Alerting strategies and incident management.
 
-### 9. Site Reliability Engineering (SRE)
+### 11. Site Reliability Engineering (SRE)
 - **SRE Principles**: SLIs, SLOs, SLAs.
 - **Error Budgets & Reliability**: Measuring and improving system reliability.
 - **Incident Management**: Handling on-call rotations, postmortems, and continuous improvement.
