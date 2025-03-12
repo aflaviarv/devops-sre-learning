@@ -120,9 +120,6 @@ This repository follows an **iterative learning approach**:
 
 **Current study status for each topic:**
 
-![Progress](https://progress-bar.dev/40/?title=Linux%20Fundamentals)
-
-
 - **Linux Fundamentals**            `■■□□□`  **40%**  
 - **Git & GitHub**                  `■■□□□`  **40%**  
 - **AWS Cloud Basics**              `□□□□□`  **0%**  
