@@ -1,4 +1,5 @@
 # What is Git and GitHub?
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2835B8&width=435&lines=Git+basics;Commiting+is+not+that+hard)](https://git.io/typing-svg)
 
 ## Git
 Git is a **distributed version control system** that allows multiple developers to work on the same codebase simultaneously while maintaining their own local copies. It helps track changes, manage collaboration, and enables easy rollbacks when necessary.
