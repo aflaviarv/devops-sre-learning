@@ -11,7 +11,7 @@ This is a **work-in-progress repository** that evolves over time as new knowledg
 
 ---
 
-## 🎯 Why This Repository?
+## 🎯 Why Did I Create This Repository?
 - **A structured study roadmap**, helping to build a solid foundation in AWS, DevOps & SRE.
 - **A place to test theories**, apply concepts, and document findings—whether successful or not.
 - **A continuously evolving knowledge base**, rather than a fixed learning guide.
