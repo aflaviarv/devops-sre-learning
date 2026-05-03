@@ -1,11 +1,11 @@
-# 📌 Branching and Merging in Git
+# Branching and Merging in Git
 
 This document is part of the **Git and GitHub** section in the `devops-sre-learning` repository. It focuses on branching, merging, and collaborative workflows using Git.
 
-## 🗂 Repository
+## Repository
 A **repository** is where we store all our source code and track changes over time. It allows version control, collaboration, and rollback capabilities if necessary.
 
-## 🌿 Branches
+## Branches
 **Branches** are independent lines of development that let us work on features or fixes without affecting the main codebase. This helps prevent unnecessary failures and ensures isolated testing before merging.
 
 ### Example:
@@ -20,7 +20,7 @@ git checkout main
 git branch
 ```
 
-## 🔄 Merging Branches
+## Merging Branches
 Once changes in a branch are complete and tested, they are merged back into the main branch.
 
 ### Merge Workflow:
@@ -41,7 +41,7 @@ Once changes in a branch are complete and tested, they are merged back into the 
    git push origin main
    ```
 
-## 🔄 Pull Request (PR)
+## Pull Request (PR)
 A **Pull Request (PR)** is a request to merge changes from a branch into the main codebase. This step includes code review before merging to ensure code quality and functionality.
 
 ### PR Workflow:
@@ -56,7 +56,7 @@ A **Pull Request (PR)** is a request to merge changes from a branch into the mai
 git push origin feature/new-feature
 ```
 
-## 🍴 Fork
+## Fork
 A **fork** is a personal copy of another user’s repository. It allows making changes without affecting the original project. You can submit a **Pull Request** to suggest changes to the original repo.
 
 > **`git clone` ≠ Fork**
@@ -76,17 +76,17 @@ git tag -a v1.1 -m "Version 1.1"
 git push origin v1.1
 ```
 
-## 🚀 Releases
+## Releases
 Releases are built upon tags but include additional information such as release notes and downloadable assets.
 
 ### Key Differences:
 - **Tags**: Just a marker.
 - **Releases**: More detailed documentation, changelogs, and assets.
 
-## 📄 Gists
+## Gists
 Gists allow sharing small code snippets or text files publicly or privately. It is commonly used for quick sharing of scripts, configuration files, or notes.
 
-## 🐞 Issues
+## Issues
 Issues are used to track bugs, enhancements, and tasks related to a repository. Each issue gets a unique number and can be referenced in commits.
 
 ### Example:
@@ -94,6 +94,3 @@ Issues are used to track bugs, enhancements, and tasks related to a repository. 
 # Commit message linking an issue
 git commit -m "Fixed login issue (fixed #2)"
 ```
-
----
-By following these Git best practices, you ensure efficient collaboration and maintain a clean codebase! 🚀
